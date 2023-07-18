@@ -9,9 +9,9 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kimmin1kk"><img src="https://avatars.githubusercontent.com/u/101302590?v=4" width="100px;" alt=""/><br /><sub><b>kimmin1kk</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jeongmu1"><img src="https://avatars.githubusercontent.com/u/47864766?v=4" width="100px;" alt="loading.."/><br /><sub><b>👑jeongmu1👑</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jeongmu1"><img src="https://avatars.githubusercontent.com/u/47864766?v=4" width="100px;" alt="loading.."/><br /><sub><b>jeongmu1</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Hw0o0"><img src="https://avatars.githubusercontent.com/u/101783599?v=4" width="100px;" alt="loading.."/><br /><sub><b>👑Hw0o0👑</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hwan2-99"><img src="https://avatars.githubusercontent.com/u/93575221?v=4" width="100px;" alt="loading.."/><br /><sub><b> hwan2-99 👑 </b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hwan2-99"><img src="https://avatars.githubusercontent.com/u/93575221?v=4" width="100px;" alt="loading.."/><br /><sub><b> hwan2-99 </b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/alfn051"><img src="https://avatars.githubusercontent.com/u/57497671?v=4" width="100px;" alt="loading.."/><br /><sub><b>alfn051</b></sub></a><br /></td>
@@ -41,7 +41,7 @@ git clone https://github.com/kimmin1kk/Do-it-Now.git
 ```
 
 2. **Repository open**
-- IntelliJ
+- IntelliJ or VS Code
 
 3. **본인의 Branch 생성**
 - branch는 주차별로 생성한다.
