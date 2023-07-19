@@ -10,7 +10,7 @@
   <tr>
     <td align="center"><a href="https://github.com/kimmin1kk"><img src="https://avatars.githubusercontent.com/u/101302590?v=4" width="100px;" alt=""/><br /><sub><b>kimmin1kk</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jeongmu1"><img src="https://avatars.githubusercontent.com/u/47864766?v=4" width="100px;" alt="loading.."/><br /><sub><b>jeongmu1</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Hw0o0"><img src="https://avatars.githubusercontent.com/u/101783599?v=4" width="100px;" alt="loading.."/><br /><sub><b>👑Hw0o0👑</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Hw0o0"><img src="https://avatars.githubusercontent.com/u/101783599?v=4" width="100px;" alt="loading.."/><br /><sub><b>Hw0o0</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hwan2-99"><img src="https://avatars.githubusercontent.com/u/93575221?v=4" width="100px;" alt="loading.."/><br /><sub><b> hwan2-99 </b></sub></a><br /></td>
   </tr>
   <tr>
@@ -33,6 +33,31 @@
 + 사용한 알고리즘
 + 중요 구현 로직 및 설명
 + 후기
+
+ <details><summary> 리드미 양식</summary>
+ 
+ # [과제번호] 과제명
+ 
+ ## :pushpin: **Algorithm**
+ 
+ 알고리즘
+ 
+ ## :round_pushpin: **Logic**
+ 
+ ```java
+ code here
+ ```
+ 
+ - 로직 설명 1
+ - 로직 설명 2
+ 
+ ## :black_nib: **Review**
+ 
+ - 후기1
+ - 후기2
+ ---
+ </details>
+
 
 ### 커밋 규칙
 1. **Repository clone**
