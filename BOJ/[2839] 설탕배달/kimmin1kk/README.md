@@ -2,7 +2,7 @@
 
 ## :pushpin: **Algorithm**
 
-Greedy Algorithm
++ Greedy Algorithm
 
 ## :round_pushpin: **Logic**
 
