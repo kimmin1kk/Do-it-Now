@@ -94,7 +94,14 @@ git push origin {생성한 브랜치}
 6. **Pull request 생성**
 - Pull Request Name : {본인의 깃허브 이름} : [{주차명}]
   > ex. kimmin1kk : [1week]
-- Content : 문제명, 시간복잡도, 시간 및 메모리 캡처
+- Content : 문제명, 시간 및 메모리 캡처
+  <details><summary>Content 양식</summary>
+  [9658] 돌 게임 4
+  
+  ![image](https://github.com/kimmin1kk/Do-it-Now/assets/101302590/3a6d7e74-b06e-4355-8580-bd2a6b6940bc)
+
+  etc...
+  > </details>
 - Label : 플랫폼, 언어
 - Assignees : 본인
 
