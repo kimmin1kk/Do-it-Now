@@ -38,4 +38,4 @@ public class Main {
 
 ## :black_nib: **Review**
 
-- 푸는데 5분 걸려서 양심이 찔렸다. 
+- 푸는데 5분 걸려서 양심이 찔렸다.

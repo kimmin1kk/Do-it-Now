@@ -11,8 +11,8 @@ public class Main {
         for (int i = 0; i < num; i++) {
             arr[i] = sc.nextInt();
         }
-
         Arrays.sort(arr);
+
 
         double sum = arr[num-1];
 
